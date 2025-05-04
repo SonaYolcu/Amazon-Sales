@@ -1,5 +1,7 @@
 # Amazon Sales Data Analysis
 
+![alt text](https://static.seekingalpha.com/uploads/2017/7/11/9642931-1499797608109025_origin.jpg)
+
 ## Overview
 This project aims to analyze and explore Amazon sales data, focusing on data cleaning, transformation, and visualization to extract meaningful insights. By leveraging various analytical techniques, we can better understand sales trends, customer sentiment, and product performance.
 
@@ -33,7 +35,7 @@ This project provides insights into Amazon sales data, highlighting trends in pr
 ## Usage
 To run this project, ensure you have the required libraries installed and the dataset available at the specified path. Adjust the file path in the code as necessary.
 
-
+## License
 
 
 
