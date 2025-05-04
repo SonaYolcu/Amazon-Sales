@@ -36,6 +36,9 @@ This project provides insights into Amazon sales data, highlighting trends in pr
 To run this project, ensure you have the required libraries installed and the dataset available at the specified path. Adjust the file path in the code as necessary.
 
 ## License
+[License](https://github.com/SonaYolcu/Amazon-Sales/blob/main/LICENSE.txt)
 
-
-
+## Summary
+Our insightful exploration of the Amazon Sales dataset, characterized by its remarkable cleanliness and consistency, yielded a treasure trove of findings. Through a series of targeted inquiries, we unlocked detailed answers:
+- Products with the highest review counts within their categories might be considered potential top sellers, even without direct sales data.
+- The average discount percentage vary across categories: Average discount percentages vary widely across categories, ranging from 0% to 78.39%.
