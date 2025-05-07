@@ -11,20 +11,23 @@ This project aims to analyze and explore Amazon sales data, focusing on data cle
 - **TextBlob**: For sentiment analysis of reviews.
 
 ## Data Loading and Exploration
-1. **Load Data**: The dataset is imported from a CSV file into a pandas DataFrame for further analysis.
+1. **Load Data**: The dataset is imported from a CSV file into a pandas DataFrame for further analysis.[here](https://github.com/SonaYolcu/Amazon-Sales/blob/main/Amazon_sales_jupiter%20(1).ipynb)
 2. **Data Overview**: The structure and data types of the DataFrame are examined using `info()` and `columns` methods.
 3. **Missing Values**: Missing values are identified and handled by dropping rows with null values.
 
-## Data Cleaning
+## Data Cleaning 
+[here](https://github.com/SonaYolcu/Amazon-Sales/blob/main/Amazon_sales_jupiter%20(1).ipynb)
 - **Data Type Conversion**: Necessary columns, particularly those related to ratings and prices, are converted from object to float to facilitate numerical analysis.
 - **String Replacement**: Functions are created to clean up string data in specific columns (e.g., removing commas and currency symbols)..
 - **Sentiment Analysis**: A dedicated function is created to analyze the sentiment of reviews using TextBlob, categorizing them into Positive, Negative, or Neutral sentiments for further analysis.
 
-## Data Aggregation
+## Data Aggregation 
+[here](https://github.com/SonaYolcu/Amazon-Sales/blob/main/Amazon_sales_jupiter%20(1).ipynb)
 - **Grouping**: The dataset is grouped by product category to calculate mean ratings and discount percentages.
 - **Pivot Tables**: A pivot table is generated to summarize the distribution of positive, negative, and neutral reviews by category, enabling quick insights into customer feedback.
 
-## Data Visualization
+## Data Visualization 
+[here](https://github.com/SonaYolcu/Amazon-Sales/blob/main/Amazon_sales_jupiter%20(1).ipynb)
 - **Histograms**: The distribution of actual prices is visualized using histograms, allowing for an understanding of pri
   ![Снимок экрана (20)](https://github.com/user-attachments/assets/4c52e83a-2d2b-49fa-b4ef-2642c909c1c4)
 cing trends across products.
